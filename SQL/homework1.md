@@ -2,7 +2,7 @@
 
 ## 1. Sorunun Cevabı 
 
-![answer1](./images/1.JPG)
+![answer1](./images/1.1.JPG)
 
 ```sql
 SELECT title, description
@@ -10,7 +10,7 @@ FROM film
 ```
 ## 2. Sorunun Cevabı 
 
-![answer2](./images/2.JPG)
+![answer2](./images/1.2.JPG)
 
 ```sql
 SELECT *
@@ -20,7 +20,7 @@ WHERE length > 60 AND length < 75;
 
 ## 3. Sorunun Cevabı 
 
-![answer3](./images/3.JPG)
+![answer3](./images/1.3.JPG)
 
 ```sql
 SELECT *
@@ -30,7 +30,7 @@ WHERE rental_rate = 0.99 AND replacement_cost = 12.99 OR replacement_cost = 28.9
 
 ## 4. Sorunun cevabı 
 
-![answer4](./images/4.JPG)
+![answer4](./images/1.4.JPG)
 
 ```sql
 SELECT last_name
@@ -40,7 +40,7 @@ WHERE first_name = 'Mary';
 
 ## 5. Sorunun cevabı 
 
-![answer5](./images/5.JPG)
+![answer5](./images/1.5.JPG)
 
 ```sql
 SELECT *
