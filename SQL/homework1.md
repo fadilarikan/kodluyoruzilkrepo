@@ -2,7 +2,7 @@
 
 ## 1. Sorunun cevabı 
 
-![answer1](SQL\images\1.JPG)
+![answer1](./SQL/images/1.JPG)
 
 ```sql
 SELECT title, description
