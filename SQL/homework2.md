@@ -2,7 +2,7 @@
 
 ## 1. Sorunun Cevabı 
 
-![answer2.1](./images/1.1.JPG)
+![answer2.1](./images/2.1.JPG)
 
 ```sql
 SELECT *
